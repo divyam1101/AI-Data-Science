@@ -1,13 +1,8 @@
-# Build output
-target/
-bin/
-out/
-*.class
-
-# IDE files
-.classpath
-.project
-.settings/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
 .idea/
-*.iml
 .vscode/
